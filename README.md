@@ -15,7 +15,13 @@ If you want to reach out, check my [Linkedin](https://www.linkedin.com/in/alessa
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="JS logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="JS logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="JS logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="JS logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="JS logo" width="50" height="50">
 
+---
 
+📈 My GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexquu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexquu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
