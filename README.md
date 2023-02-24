@@ -1,5 +1,11 @@
 ### Hi there 👋, i'm Alessandro Quarin!
 
+Learning front-end development and loving it!
+
+Experience with the technologies listed below, always keeping on improving and adding something new to my skills.
+
+If you want to reach out, check my [Linkedin](https://www.linkedin.com/in/alessandro-quarin-981475113/) page or write me at alexqu86@gmail.com. 
+
 <!--
 **alexquu/alexquu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
