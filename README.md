@@ -17,14 +17,6 @@ If you want to reach out, check my [Linkedin](https://www.linkedin.com/in/alessa
 
 ---
 
-📈 My GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexquu)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
 <!--
 **alexquu/alexquu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
